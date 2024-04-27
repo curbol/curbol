@@ -3,9 +3,6 @@
 <h1 align="center">Hi 👋, I'm Curtis</h1>
 <h3 align="center">A software engineer 🖥️, indie game dev 🎮, and cat enthusiast 🐈 living in Oregon 🌲</h3>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=curbol&show_icons=true&theme=gruvbox&hide_title=true&hide_border=true&border_radius=10" alt="Curbol's GitHub stats" />
-</p>
-<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=curbol&show_icons=true&theme=gruvbox&layout=compact&hide_border=true&border_radius=10" alt="Curbol's GitHub stats" />
 </p>
 
