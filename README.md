@@ -65,15 +65,21 @@ This card shows language usage only inside your own non-forked repositories, not
   <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello">
 </p>
 <p align="center">
-  <img align="center" src="https://github.com/curbol/curbol/assets/5971687/4cc6b148-1882-4c8b-9d2e-aebe86cd19ce" alt="Development gameplay">
+  <a href="#">
+    <img width="600" src="https://github.com/curbol/curbol/assets/5971687/4cc6b148-1882-4c8b-9d2e-aebe86cd19ce" alt="Development gameplay">
+  </a>
 </p>
 <p align="center">
-  <img width="50" align="center" src="https://github.com/curbol/curbol/assets/5971687/b1b906bc-f691-478a-bce7-01485a711247" alt="cat gif" />
+  <a href="#">
+    <img width="50" src="https://github.com/curbol/curbol/assets/5971687/b1b906bc-f691-478a-bce7-01485a711247" alt="cat gif" />
+  </a>
 </p>
 
 <h3 align="center">🔭 I’m currently working on <a href="dieteticcalc.com">Dietetic Calculator</a></h3>
 <p align="center">
-  <img width="600" alt="Screenshot of Dietetic Calculator" src="https://github.com/curbol/curbol/assets/5971687/65ece7ee-4ca9-4ae8-9764-69fd83b6b479">
+  <a href="#">
+    <img width="600" alt="Screenshot of Dietetic Calculator" src="https://github.com/curbol/curbol/assets/5971687/65ece7ee-4ca9-4ae8-9764-69fd83b6b479">
+  </a>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js">
