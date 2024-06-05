@@ -40,9 +40,12 @@ This card shows language usage only inside your own non-forked repositories, not
   </a>
 </p>
 
+<h1 />
+
 <h3 align="center">🛠️ I primarily work on GoLang microservices professionally</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go">
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
   <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
@@ -50,30 +53,18 @@ This card shows language usage only inside your own non-forked repositories, not
   <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
   <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL">
-  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
-  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt="macOS">
 </p>
 
-<h3 align="center">🔭 I’m currently working on a turn-based indie game</h3>
+<h1 />
+
+<h3 align="center">🧰 Tools I like to use</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender">
-  <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white" alt="Windows 11">
-  <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello">
+  <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="NeoVim">
+  <img src="https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=crimson" alt="Rider">
+  <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian">
 </p>
-<p align="center">
-  <a href="#">
-    <img width="600" src="https://github.com/curbol/curbol/assets/5971687/4cc6b148-1882-4c8b-9d2e-aebe86cd19ce" alt="Development gameplay">
-  </a>
-</p>
-<p align="center">
-  <a href="#">
-    <img width="50" src="https://github.com/curbol/curbol/assets/5971687/b1b906bc-f691-478a-bce7-01485a711247" alt="cat gif" />
-  </a>
-</p>
+
+<hr />
 
 <h3 align="center">🔭 I’m currently working on <a href="dieteticcalc.com">Dietetic Calculator</a></h3>
 <p align="center">
@@ -94,13 +85,29 @@ This card shows language usage only inside your own non-forked repositories, not
   <img src="https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte">
 </p>
 
-<h3 align="center">🧰 Tools I like to use</h3>
+<h1 />
+
+<h3 align="center">🔭 I’m currently working on a turn-based indie game</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="NeoVim">
-  <img src="https://img.shields.io/badge/GoLand-0f0f0f?&style=for-the-badge&logo=goland&logoColor=white" alt="GoLand">
-  <img src="https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=crimson" alt="Rider">
-  <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian">
+  <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine">
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender">
+  <br />Currently migrating from Unity to Unreal
 </p>
+<p align="center">
+  <a href="#">
+    <img width="600" src="https://github.com/curbol/curbol/assets/5971687/4cc6b148-1882-4c8b-9d2e-aebe86cd19ce" alt="Development gameplay">
+  </a>
+</p>
+<p align="center">
+  <a href="#">
+    <img width="50" src="https://github.com/curbol/curbol/assets/5971687/b1b906bc-f691-478a-bce7-01485a711247" alt="cat gif" />
+  </a>
+</p>
+
+<hr />
 
 <h3 align="center">📫 How to reach me</h3>
 <p align="center">
