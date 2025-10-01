@@ -33,16 +33,16 @@ This card shows language usage only inside your own non-forked repositories, not
 -->
 
 <h1 align="center">Hi 👋, I'm Curtis</h1>
-<h3 align="center">A software engineer 🖥️, indie game dev 🎮, and cat enthusiast 🐈 living in Oregon 🌲</h3>
+<h3 align="center">A software engineer, indie game dev, and cat enthusiast living in Oregon</h3>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=curbol&theme=gruvbox&rank=-?,-C&column=-1" alt="curbol" />
+    <img src="https://github-profile-trophy.vercel.app/?username=curbol&theme=gruvbox&rank=-?,-C,-B&column=-1" alt="curbol" />
   </a>
 </p>
 
 <h1 />
 
-<h3 align="center">🛠️ I primarily work on GoLang and TypeScript microservices professionally</h3>
+<h3 align="center">I primarily work on GoLang and TypeScript microservices professionally</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go">
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
@@ -56,7 +56,7 @@ This card shows language usage only inside your own non-forked repositories, not
 
 <hr />
 
-<h3 align="center">🔭 I’m currently working on <a href="dieteticcalc.com">Dietetic Calculator</a></h3>
+<h3 align="center">I’m currently working on <a href="dieteticcalc.com">Dietetic Calculator</a></h3>
 <p align="center">
   <a href="#">
     <img width="600" alt="Screenshot of Dietetic Calculator" src="https://github.com/curbol/curbol/assets/5971687/65ece7ee-4ca9-4ae8-9764-69fd83b6b479">
@@ -77,7 +77,7 @@ This card shows language usage only inside your own non-forked repositories, not
 
 <h1 />
 
-<h3 align="center">🔭 I’m currently working on a turn-based indie game</h3>
+<h3 align="center">I’m currently working on a turn-based indie game</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
