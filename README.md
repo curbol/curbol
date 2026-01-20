@@ -1,44 +1,10 @@
-<!--
-**curbol/curbol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-Stats Fork:
-https://github.com/curbol/github-readme-stats
-
-Badges:
-- https://github.com/Ileriayo/markdown-badges
-- https://github.com/alexandresanlim/Badges4-README.md-Profile
-
-Generator:
-https://rahuldkjain.github.io/gh-profile-readme-generator
--->
-
-<!-- 
-This card shows language usage only inside your own non-forked repositories, not depending on who the author of the commits is. It does not include your contributions into another users/organizations repositories. Currently there are no way to get this data from GitHub API. If you want this behavior to be improved you can support this feature request created by @rickstaa inside GitHub Community.
--->
-<!--
-<p align="center">
-  <img align="center" src="https://github-readme-stats-git-main-curbols-projects.vercel.app/api/top-langs?username=curbol&include_orgs=true&show_icons=true&theme=gruvbox&layout=compact&hide_border=true&border_radius=10" alt="Curbol's GitHub stats" />
-</p>
--->
-
 <h1 align="center">Hi 👋, I'm Curtis</h1>
 <h3 align="center">A software engineer, indie game dev, and cat enthusiast living in Oregon</h3>
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=curbol&theme=gruvbox&rank=-?,-C,-B&column=-1" alt="curbol" />
   </a>
-</p>
+</p> -->
 
 <h1 />
 
