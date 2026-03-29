@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Curtis</h1>
 <h3 align="center">A software engineer, indie game dev, and cat enthusiast living in Oregon</h3>
-<!-- <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=curbol&theme=gruvbox&rank=-?,-C,-B&column=-1" alt="curbol" />
-  </a>
-</p> -->
 
 <h1 />
 
