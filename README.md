@@ -33,11 +33,11 @@
 <h1 />
 
 <h3 align="center">I’m currently working on Hexed Haven, a turn-based tactical roguelike</h3>
+<p align="center">Hex-grid combat, deterministic mechanics, and a medieval fantasy setting</p>
 <p align="center">
   <img src="https://img.shields.io/badge/godot%20engine-%23478cbf.svg?style=for-the-badge&logo=godotengine&logoColor=white" alt="Godot Engine">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender">
-  <br />Hex-grid combat, deterministic mechanics, and a medieval fantasy setting
 </p>
 <p align="center">
   <a href="#">
