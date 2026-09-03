@@ -18,7 +18,7 @@
 <hr />
 
 <h3 align="center">I’m currently working on <a href="https://dieteticcalc.com">Dietetic Calculator</a></h3>
-<p align="center">Enter the patient once; every equation answers together</p>
+<p align="center">Enter the patient once, read every result together</p>
 <p align="center">
   <img src="https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte">
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
