@@ -18,6 +18,7 @@
 <hr />
 
 <h3 align="center">I’m currently working on <a href="https://dieteticcalc.com">Dietetic Calculator</a></h3>
+<p align="center">Body composition, energy expenditure, protein and fluid needs, each with its source stated</p>
 <p align="center">
   <img src="https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte">
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
