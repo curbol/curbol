@@ -20,7 +20,7 @@
 <h3 align="center">I’m currently working on <a href="dieteticcalc.com">Dietetic Calculator</a></h3>
 <p align="center">
   <a href="#">
-    <img width="600" alt="Screenshot of Dietetic Calculator" src="https://github.com/curbol/curbol/assets/5971687/65ece7ee-4ca9-4ae8-9764-69fd83b6b479">
+    <img width="600" alt="Screenshot of Dietetic Calculator" src="assets/dietetic-calculator.png">
   </a>
 </p>
 <p align="center">
