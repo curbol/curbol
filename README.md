@@ -17,9 +17,9 @@
 
 <hr />
 
-<h3 align="center">I’m currently working on <a href="www.dieteticcalc.com">Dietetic Calculator</a></h3>
+<h3 align="center">I’m currently working on <a href="https://dieteticcalc.com">Dietetic Calculator</a></h3>
 <p align="center">
-  <a href="#">
+  <a href="https://dieteticcalc.com">
     <img width="600" alt="Screenshot of Dietetic Calculator" src="assets/dietetic-calculator.png">
   </a>
 </p>
